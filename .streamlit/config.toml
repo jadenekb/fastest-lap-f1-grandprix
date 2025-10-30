@@ -1,0 +1,6 @@
+[server]
+headless = true
+
+[global]
+setupCommand = "bash setup.sh"
+
