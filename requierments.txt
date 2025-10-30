@@ -1,7 +1,10 @@
 streamlit
-fastf1
+fastf1=3.2.2
 matplotlib
 pandas
 plotly
-
+numpy
+requests
+requests-cache
+lxml
 
