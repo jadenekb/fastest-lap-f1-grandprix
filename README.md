@@ -5,7 +5,7 @@ An interactive web app built with **Streamlit** and **FastF1** that lets users c
 ## Features
 - Select any race, year, and session
 - Input two driver codes (e.g., VER, LEC)
-- Visualize Speed, Throttle, and Brake comparisons
-- Powered by FastF1, Matplotlib, and Seaborn
+- Visualize Speed
+- Powered by FastF1, Matplotlib, and plotly
 
 
