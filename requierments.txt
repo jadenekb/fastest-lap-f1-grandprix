@@ -1,7 +1,7 @@
 streamlit
 fastf1
 matplotlib
-seaborn
 pandas
 plotly
+
 
